@@ -1,6 +1,6 @@
 void main() {
   var myList = ['a', 'b', 'c', 'd'];
-  var mySet = {1, 4, 3, 6, 2};
+  // var mySet = {1, 4, 3, 6, 2};
   var myMap = {'a': 1, 'b': 2, 'c': 3};
 
   //for loop
