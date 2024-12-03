@@ -1,5 +1,3 @@
-import 'dart:io';
-
 mixin WalkMixin {
   void walk() {
     print("I can walk");
